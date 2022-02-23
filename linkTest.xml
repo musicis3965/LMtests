@@ -3,7 +3,7 @@
 <channel>
 <title>TitlePlaceHolder</title>
 <link>http://www.google.com/</link>
-<description>This is the description of your Feed.</description>
+<description>leadintake?id=LM1544&amp;email={{email}}{{{snippet"siteID"}}}</description>
 <item>
 <link>leadintake?id=LM1544&amp;email={{email}}{{{snippet"siteID"}}}</link>
 <guid isPermaLink="false">LM1544</guid>
