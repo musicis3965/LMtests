@@ -3,8 +3,9 @@
 <channel>
 <title>TitlePlaceHolder</title>
 <link>http://www.google.com/</link>
-<description>leadintake?id=LM1544&amp;email={{email}}{{{snippet"siteID"}}}</description>
+<description>description</description>
 <item>
+<title>leadintake?id=LM1544&amp;email={{email}}</title>
 <link>leadintake?id=LM1544&amp;email={{email}}{{{snippet"siteID"}}}</link>
 <guid isPermaLink="false">LM1544</guid>
 <description>Dedicated - CTO - InvestPub Tips4Traders - LM1544</description>
