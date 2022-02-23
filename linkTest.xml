@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:wsj="http://dowjones.net/rss/" xmlns:dj="http://dowjones.net/rss/" 
-xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Title of your Feed</title>
+<link>http://www.yourwebsite.com/</link>
+<description>This is the description of your Feed. 
+Keep it to one or two sentences.</description>
 <channel>
 <title>TitlePlaceHolder</title>
 <link>http://www.google.com/</link>
@@ -11,6 +14,13 @@ xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <link>leadintake?id=LM1544&amp;email={{email}}{{{snippet"siteID"}}}</link>
 <guid isPermaLink="false">LM1544</guid>
 <description>Dedicated - CTO - InvestPub Tips4Traders - LM1544</description>
+</item>
+<item>
+<title>Article 2</title>
+<link>example.com/2</link>
+<guid>example.com/2</guid>
+<pubDate>Tue, 26 Nov 2013 12:15:12 GMT</pubDate>
+<description>My second article.</description>
 </item>
 </channel>
 </rss>
