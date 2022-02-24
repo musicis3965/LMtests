@@ -28,7 +28,9 @@ Keep it to one or two sentences.</description>
 <guid isPermaLink="false">LM1544</guid>
 <description>Dedicated - CTO - InvestPub Tips4Traders - LM1544</description>
 <LMID>LM1544</LMID>
-<iDigitalDynamicSnippet>{{{ snippet &quot;EdMention-Affiliate-NFT&quot; }}}</iDigitalDynamicSnippet>
+<snipOpen>{{{ snippet</snipOpen>
+<snipClose>}}}</snipClose>
+<iDigitalDynamicSnippet>EdMention-Affiliate-NFT</iDigitalDynamicSnippet>
 <stockHedgesDynamicSnippet>EdMention-CTO-Top 10 Tech 2022</stockHedgesDynamicSnippet>
 </item>
 
