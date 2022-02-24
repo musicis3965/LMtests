@@ -27,8 +27,8 @@
 <LMID>LM1544</LMID>
 <snipOpen>{{{ snippet</snipOpen>
 <snipClose>}}}</snipClose>
-<iDigitalDynamicSnippet>EdMention-Affiliate-NFT</iDigitalDynamicSnippet>
-<stockHedgesDynamicSnippet>EdMention-CTO-Top 10 Tech 2022</stockHedgesDynamicSnippet>
+<iDDynamicSnip>EdMention-Affiliate-NFT</iDDynamicSnip>
+<SHDynamicSnip>EdMention-CTO-Top 10 Tech 2022</SHDynamicSnip>
 </item>
 
 </channel>
