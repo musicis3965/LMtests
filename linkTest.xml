@@ -6,14 +6,14 @@
 <description>This is the description of your Feed. 
 Keep it to one or two sentences.</description>
 <!--  -->
-<!--  -->
+<!-- 0 -->
 <item>
 <title>leadintake?id=LM1544&amp;email={{email}}</title>
 <guid isPermaLink="false">LM1544</guid>
 <description>Dedicated - CTO - InvestPub Tips4Traders - LM1544</description>
 </item>
 <!--  -->
-<!--  -->
+<!-- 1 -->
 <item>
 <title>Article 2</title>
 <link>example.com/2</link>
@@ -21,5 +21,14 @@ Keep it to one or two sentences.</description>
 <pubDate>Tue, 26 Nov 2013 12:15:12 GMT</pubDate>
 <description>My second article.</description>
 </item>
+<!--  -->
+<!-- 2 -->
+<item>
+<title>leadintake?id=LM1544&amp;email={{email}}</title>
+<guid isPermaLink="false">LM1544</guid>
+<description>Dedicated - CTO - InvestPub Tips4Traders - LM1544</description>
+<LMID>LM1544</LMID>
+</item>
+
 </channel>
 </rss>
