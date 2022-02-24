@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
-<title>Title of your Feed</title>
-<link>http://www.yourwebsite.com/</link>
-<description>This is the description of your Feed. 
-Keep it to one or two sentences.</description>
+<title>LM Tester</title>
+<link>example.com/</link>
+<description>lm tester</description>
 <!--  -->
 <!-- 0 -->
 <item>
-<title>leadintake?id=LM1544&amp;email={{email}}</title>
-<guid isPermaLink="false">LM1544</guid>
-<description>Dedicated - CTO - InvestPub Tips4Traders - LM1544</description>
+<title>Placeholder1</title>
+<link>example.com/1</link>
+<guid>example.com/1</guid>
+<description>placeholder</description>
 </item>
 <!--  -->
 <!-- 1 -->
 <item>
-<title>Article 2</title>
+<title>Placeholde2r</title>
 <link>example.com/2</link>
 <guid>example.com/2</guid>
-<pubDate>Tue, 26 Nov 2013 12:15:12 GMT</pubDate>
-<description>My second article.</description>
+<pubDate>Wed, 03 Mar 1999 12:15:12 GMT</pubDate>
+<description>placeholder</description>
 </item>
 <!--  -->
 <!-- 2 -->
