@@ -27,11 +27,11 @@
 <LMID>LM1544</LMID>
 <snipOpen>{{{ snippet</snipOpen>
 <snipClose>}}}</snipClose>
-<SHDynamicSnip>EdMention-CTO-WCI Buy and Hold</SHDynamicSnip>
-<iDDynamicSnip>EdMention-CTO-Metaverse</iDDynamicSnip>
-<OODynamicSnip>EdMention-CTO-Metaverse</OODynamicSnip>
-<oneTwoThreeDynamicSnip>EdMention-CTO-WCI Buy and Hold</oneTwoThreeDynamicSnip>
-<SFMDynamicSnip>EdMention - BRK Forever</SFMDynamicSnip>
+<SHDynamicSnip>EdMention-CTO-Metaverse</SHDynamicSnip>
+<iDDynamicSnip>EdMention-CTO-WCI Buy and Hold</iDDynamicSnip>
+<OODynamicSnip>EdMention-CTO-WCI Buy and Hold</OODynamicSnip>
+<oneTwoThreeDynamicSnip>EdMention-CTO-Metaverse</oneTwoThreeDynamicSnip>
+<SFMDynamicSnip>EdMention-CTO-Metaverse</SFMDynamicSnip>
 <test>test snippet</test>
 <!-- <test2>218</test2> -->
 </item>
