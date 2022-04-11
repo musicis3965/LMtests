@@ -27,16 +27,16 @@
 <LMID>LM1544</LMID>
 <snipOpen>{{{ snippet</snipOpen>
 <snipClose>}}}</snipClose>
-<SHDynamicSnip>EdMention-CTO-Enhanced BRK Forever</SHDynamicSnip>
-<SHID>1640</SHID>
-<iDDynamicSnip>EdMention-CTO-Enhanced BRK Forever</iDDynamicSnip>
-<iDID>1640</iDID>
-<OODynamicSnip>EdMention-CTO-Enhanced Dividend</OODynamicSnip>
-<OOID>1641</OOID>
-<oneTwoThreeDynamicSnip>EdMention-CTO-Enhanced MWL Gen</oneTwoThreeDynamicSnip>
-<ONEID>1643</ONEID>
-<SFMDynamicSnip>EdMention-CTO-Enhanced MWL Gen</SFMDynamicSnip>
-<SFMID>1643</SFMID>
+<SHDynamicSnip>EdMention-CTO-CIN Ukraine War</SHDynamicSnip>
+<SHID>1675</SHID>
+<iDDynamicSnip>EdMention-CTO-Top 11 Stocks</iDDynamicSnip>
+<iDID>1678</iDID>
+<OODynamicSnip>EdMention-CTO-NFT Mania</OODynamicSnip>
+<OOID>1677</OOID>
+<oneTwoThreeDynamicSnip>EdMention-CTO-CIN Ukraine War</oneTwoThreeDynamicSnip>
+<ONEID>1675</ONEID>
+<SFMDynamicSnip>EdMention-CTO-NFT Mania</SFMDynamicSnip>
+<SFMID>1677</SFMID>
 <test>test snippet</test>
 </item>
 <!--  -->
