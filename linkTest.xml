@@ -27,16 +27,16 @@
 <LMID>LM1544</LMID>
 <snipOpen>{{{ snippet</snipOpen>
 <snipClose>}}}</snipClose>
-<SHDynamicSnip>EdMention-CTO-CIN Ukraine War</SHDynamicSnip>
-<SHID>1675</SHID>
-<iDDynamicSnip>EdMention-CTO-Top 11 Stocks</iDDynamicSnip>
-<iDID>1678</iDID>
-<OODynamicSnip>EdMention-CTO-NFT Mania</OODynamicSnip>
-<OOID>1677</OOID>
-<oneTwoThreeDynamicSnip>EdMention-CTO-CIN Ukraine War</oneTwoThreeDynamicSnip>
-<ONEID>1675</ONEID>
-<SFMDynamicSnip>EdMention-CTO-NFT Mania</SFMDynamicSnip>
-<SFMID>1677</SFMID>
+<SHDynamicSnip>EdMention-CTO-Retirement Calculator</SHDynamicSnip>
+<SHID>1716</SHID>
+<iDDynamicSnip>EdMention-CTO-Retirement Calculator</iDDynamicSnip>
+<iDID>1716</iDID>
+<OODynamicSnip>EdMention-CTO-Enhanced MWL Event</OODynamicSnip>
+<OOID>1642</OOID>
+<oneTwoThreeDynamicSnip>EdMention-CTO-Enhanced MWL Event</oneTwoThreeDynamicSnip>
+<ONEID>1642</ONEID>
+<SFMDynamicSnip>EdMention-CTO-Enhanced MWL Event</SFMDynamicSnip>
+<SFMID>1642</SFMID>
 <test>test snippet</test>
 </item>
 <!--  -->
