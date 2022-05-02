@@ -27,16 +27,16 @@
 <LMID>LM1544</LMID>
 <snipOpen>{{{ snippet</snipOpen>
 <snipClose>}}}</snipClose>
-<SHDynamicSnip>EdMention-CTO-LRP TLAC</SHDynamicSnip>
-<SHID>1651</SHID>
-<iDDynamicSnip>EdMention-CTO-MP-Crypto War Room</iDDynamicSnip>
-<iDID></iDID>
-<OODynamicSnip>EdMention-CTO-LRP TLAC</OODynamicSnip>
-<OOID>1651</OOID>
-<oneTwoThreeDynamicSnip>EdMention-CTO-LRP TLAC</oneTwoThreeDynamicSnip>
-<ONEID>1651</ONEID>
-<SFMDynamicSnip>EdMention-CTO-MP-Crypto War Room</SFMDynamicSnip>
-<SFMID></SFMID>
+<SHDynamicSnip>EdMention-CTO-MP-Crypto War Room</SHDynamicSnip>
+<SHID></SHID>
+<iDDynamicSnip>EdMention-CTO-LRP TLAC</iDDynamicSnip>
+<iDID>1651</iDID>
+<OODynamicSnip>EdMention-CTO-MP-Crypto War Room</OODynamicSnip>
+<OOID></OOID>
+<oneTwoThreeDynamicSnip>EdMention-CTO-MP-Crypto War Room</oneTwoThreeDynamicSnip>
+<ONEID></ONEID>
+<SFMDynamicSnip>EdMention-CTO-LRP TLAC</SFMDynamicSnip>
+<SFMID>1651</SFMID>
 <test>test snippet</test>
 </item>
 <!--  -->
