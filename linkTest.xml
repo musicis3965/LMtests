@@ -27,16 +27,16 @@
 <LMID>LM1544</LMID>
 <snipOpen>{{{ snippet</snipOpen>
 <snipClose>}}}</snipClose>
-<SHDynamicSnip>EdMention-CTO-7 Stocks under 7</SHDynamicSnip>
-<SHID>1747</SHID>
-<iDDynamicSnip>EdMention-CTO-5 Congress Stocks</iDDynamicSnip>
-<iDID>1746</iDID>
-<OODynamicSnip>EdMention-CTO-5 Congress Stocks</OODynamicSnip>
-<OOID>1746</OOID>
-<oneTwoThreeDynamicSnip>EdMention-CTO-5 Congress Stocks</oneTwoThreeDynamicSnip>
-<ONEID>1746</ONEID>
-<SFMDynamicSnip>EdMention-CTO-7 Stocks under 7</SFMDynamicSnip>
-<SFMID>1747</SFMID>
+<SHDynamicSnip>EdMention-CTO-MMP A-E</SHDynamicSnip>
+<SHID>1638</SHID>
+<iDDynamicSnip>EdMention-CTO-NasDaq Stocks</iDDynamicSnip>
+<iDID>1749</iDID>
+<OODynamicSnip>EdMention-CTO-NasDaq Stocks</OODynamicSnip>
+<OOID>1749</OOID>
+<oneTwoThreeDynamicSnip>EdMention-CTO-NasDaq Stocks</oneTwoThreeDynamicSnip>
+<ONEID>1749</ONEID>
+<SFMDynamicSnip>EdMention-CTO-MMP A-E</SFMDynamicSnip>
+<SFMID>1638</SFMID>
 <test>test snippet</test>
 </item>
 <!--  -->
