@@ -27,16 +27,16 @@
 <LMID>LM1544</LMID>
 <snipOpen>{{{ snippet</snipOpen>
 <snipClose>}}}</snipClose>
-<SHDynamicSnip>EdMention-CTO-MP-39K a Month</SHDynamicSnip>
-<SHID>1297</SHID>
-<iDDynamicSnip>EdMention-CTO-MP-Project X</iDDynamicSnip>
-<iDID>1488</iDID>
-<OODynamicSnip>EdMention-CTO-MP-Project X</OODynamicSnip>
-<OOID>1488</OOID>
-<oneTwoThreeDynamicSnip>EdMention-CTO-MP-Project X</oneTwoThreeDynamicSnip>
-<ONEID>1488</ONEID>
-<SFMDynamicSnip>EdMention-CTO-MP-39K a Month</SFMDynamicSnip>
-<SFMID>1297</SFMID>
+<SHDynamicSnip>EdMention-CTO-MP-Project X</SHDynamicSnip>
+<SHID>1488</SHID>
+<iDDynamicSnip>EdMention-CTO-MP-39K a Month</iDDynamicSnip>
+<iDID>1297</iDID>
+<OODynamicSnip>EdMention-CTO-MP-39K a Month</OODynamicSnip>
+<OOID>1297</OOID>
+<oneTwoThreeDynamicSnip>EdMention-CTO-MP-39K a Month</oneTwoThreeDynamicSnip>
+<ONEID>1297</ONEID>
+<SFMDynamicSnip>EdMention-CTO-MP-Project X</SFMDynamicSnip>
+<SFMID>1488</SFMID>
 <test>test snippet</test>
 </item>
 <!--  -->
