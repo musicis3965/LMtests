@@ -27,19 +27,19 @@
 <LMID>LM1544</LMID>
 <snipOpen>{{{ snippet</snipOpen>
 <snipClose>}}}</snipClose>
-<SHDynamicSnip>EdMention-CTO-Trade of the Day</SHDynamicSnip>
-<SHID>1632</SHID>
-<iDDynamicSnip>EdMention-CTO-LRP TLAC</iDDynamicSnip>
-<iDID>1633</iDID>
-<OODynamicSnip>EdMention-CTO-LRP TLAC</OODynamicSnip>
-<OOID>1633</OOID>
-<oneTwoThreeDynamicSnip>EdMention-CTO-LRP TLAC</oneTwoThreeDynamicSnip>
-<ONEID>1633</ONEID>
-<SFMDynamicSnip>EdMention-CTO-Trade of the Day</SFMDynamicSnip>
-<SFMID>1632</SFMID>
+<SHDynamicSnip>EdMention-CTO-LRP TLAC</SHDynamicSnip>
+<SHID>1633</SHID>
+<iDDynamicSnip>EdMention-CTO-Trade of the Day</iDDynamicSnip>
+<iDID>1632</iDID>
+<OODynamicSnip>EdMention-CTO-Trade of the Day</OODynamicSnip>
+<OOID>1632</OOID>
+<oneTwoThreeDynamicSnip>EdMention-CTO-Trade of the Day</oneTwoThreeDynamicSnip>
+<ONEID>1632</ONEID>
+<SFMDynamicSnip>EdMention-CTO-LRP TLAC</SFMDynamicSnip>
+<SFMID>1633</SFMID>
 <test>test snippet</test>
 </item>
-<!--  -->
+<!--  --> 
 <!-- 3 -->
 <item>
 
