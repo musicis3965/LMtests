@@ -27,16 +27,16 @@
 <LMID>LM1544</LMID>
 <snipOpen>{{{ snippet</snipOpen>
 <snipClose>}}}</snipClose>
-<SHDynamicSnip>EdMention-CTO-Millionaire CHA</SHDynamicSnip>
-<SHID>1869</SHID>
-<iDDynamicSnip>EdMention-CTO-Oxford MWL Event</iDDynamicSnip>
-<iDID>1876</iDID>
-<OODynamicSnip>EdMention-CTO-Oxford MWL Event</OODynamicSnip>
-<OOID>1876</OOID>
-<oneTwoThreeDynamicSnip>EdMention-CTO-Millionaire CHA</oneTwoThreeDynamicSnip>
-<ONEID>1869</ONEID>
-<SFMDynamicSnip>EdMention-CTO-Oxford MWL Event</SFMDynamicSnip>
-<SFMID>1876</SFMID>
+<SHDynamicSnip>EdMention-CTO-MP-39K a Month</SHDynamicSnip>
+<SHID>1297</SHID>
+<iDDynamicSnip>EdMention-CTO-Trade of the Day</iDDynamicSnip>
+<iDID>1632</iDID>
+<OODynamicSnip>EdMention-CTO-MP-39K a Month</OODynamicSnip>
+<OOID>1297</OOID>
+<oneTwoThreeDynamicSnip>EdMention-CTO-Trade of the Day</oneTwoThreeDynamicSnip>
+<ONEID>1632</ONEID>
+<SFMDynamicSnip>EdMention-CTO-MP-39K a Month</SFMDynamicSnip>
+<SFMID>1297</SFMID>
 <test>test snippet</test>
 </item>
 <!--  --> 
