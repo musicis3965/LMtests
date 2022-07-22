@@ -29,14 +29,14 @@
 <snipClose>}}}</snipClose>
 <SHDynamicSnip>EdMention-CTO-Trade of the Day</SHDynamicSnip>
 <SHID>1632</SHID>
-<iDDynamicSnip>EdMention-CTO-Trade of the Day</iDDynamicSnip>
-<iDID>1632</iDID>
-<OODynamicSnip>EdMention-CTO-MP-39K a Month</OODynamicSnip>
-<OOID>1297</OOID>
-<oneTwoThreeDynamicSnip>EdMention-CTO-Trade of the Day</oneTwoThreeDynamicSnip>
-<ONEID>1632</ONEID>
-<SFMDynamicSnip>EdMention-CTO-MP-39K a Month</SFMDynamicSnip>
-<SFMID>1297</SFMID>
+<iDDynamicSnip>EdMention-CTO-MP-39K a Month</iDDynamicSnip>
+<iDID>1297</iDID>
+<OODynamicSnip>EdMention-CTO-Trade of the Day</OODynamicSnip>
+<OOID>1632</OOID>
+<oneTwoThreeDynamicSnip>EdMention-CTO-MP-39K a Month</oneTwoThreeDynamicSnip>
+<ONEID>1297</ONEID>
+<SFMDynamicSnip>EdMention-CTO-Trade of the Day</SFMDynamicSnip>
+<SFMID>1632</SFMID>
 <test>test snippet</test>
 </item>
 <!--  --> 
