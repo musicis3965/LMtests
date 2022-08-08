@@ -27,16 +27,16 @@
 <LMID>LM1544</LMID>
 <snipOpen>{{{ snippet</snipOpen>
 <snipClose>}}}</snipClose>
-<SHDynamicSnip>EdMention-CTO-Millionaire CHA</SHDynamicSnip>
-<SHID>1869</SHID>
-<iDDynamicSnip>EdMention-CTO-TA NFT</iDDynamicSnip>
-<iDID>1938</iDID>
-<OODynamicSnip>EdMention-CTO-IPM 3 Cryptos</OODynamicSnip>
-<OOID>1927</OOID>
-<oneTwoThreeDynamicSnip>EdMention-CTO-TS Crypto</oneTwoThreeDynamicSnip>
-<ONEID>1931</ONEID>
-<SFMDynamicSnip>EdMention-CTO-Millionaire BCP</SFMDynamicSnip>
-<SFMID>1821</SFMID>
+<SHDynamicSnip>EdMention-CTO-IPM 3 Cryptos</SHDynamicSnip>
+<SHID>1927</SHID>
+<iDDynamicSnip>EdMention-CTO-IPM 3 Cryptos</iDDynamicSnip>
+<iDID>1927</iDID>
+<OODynamicSnip>EdMention-CTO-Millionaire BCP</OODynamicSnip>
+<OOID>1821</OOID>
+<oneTwoThreeDynamicSnip>EdMention-CTO-Millionaire BCP</oneTwoThreeDynamicSnip>
+<ONEID>1821</ONEID>
+<SFMDynamicSnip>EdMention-CTO-TS Crypto</SFMDynamicSnip>
+<SFMID>1931</SFMID>
 <test>test snippet</test>
 </item>
 <!--  --> 
