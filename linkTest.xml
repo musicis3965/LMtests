@@ -27,16 +27,16 @@
 <LMID>LM1544</LMID>
 <snipOpen>{{{ snippet</snipOpen>
 <snipClose>}}}</snipClose>
-<SHDynamicSnip>EdMention-CTO-Options CookBook</SHDynamicSnip>
-<SHID>1953</SHID>
-<iDDynamicSnip>EdMention-CTO-Millionaire CHA</iDDynamicSnip>
-<iDID>1869</iDID>
-<OODynamicSnip>EdMention-CTO-TS Crypto</OODynamicSnip>
-<OOID>1995</OOID>
-<oneTwoThreeDynamicSnip>EdMention-CTO-Millionaire CHA</oneTwoThreeDynamicSnip>
-<ONEID>1869</ONEID>
-<SFMDynamicSnip>EdMention-CTO-MP-Crypto War Room</SFMDynamicSnip>
-<SFMID>1378</SFMID>
+<SHDynamicSnip>EdMention-CTO-Millionaire CHA</SHDynamicSnip>
+<SHID>1869</SHID>
+<iDDynamicSnip>EdMention-CTO-TS Crypto</iDDynamicSnip>
+<iDID>1995</iDID>
+<OODynamicSnip>EdMention-CTO-Millionaire CHA</OODynamicSnip>
+<OOID>1869</OOID>
+<oneTwoThreeDynamicSnip>EdMention-CTO-TS Crypto</oneTwoThreeDynamicSnip>
+<ONEID>1995</ONEID>
+<SFMDynamicSnip>EdMention-CTO-Millionaire CHA</SFMDynamicSnip>
+<SFMID>1869</SFMID>
 <test>test snippet</test>
 </item>
 <!--  --> 
