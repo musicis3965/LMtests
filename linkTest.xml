@@ -27,16 +27,16 @@
 <LMID>LM1544</LMID>
 <snipOpen>{{{ snippet</snipOpen>
 <snipClose>}}}</snipClose>
-<SHDynamicSnip>EdMention-CTO-Wyatt Overnight Trader</SHDynamicSnip>
-<SHID>2343</SHID>
-<iDDynamicSnip>EdMention-CTO-SP Crypto 101 Americas Last Stand</iDDynamicSnip>
-<iDID>2332</iDID>
-<OODynamicSnip>EdMention-CTO-Wyatt Overnight Trader</OODynamicSnip>
-<OOID>2343</OOID>
-<oneTwoThreeDynamicSnip>EdMention-CTO-IP Mater Indicator</oneTwoThreeDynamicSnip>
-<ONEID>2315</ONEID>
-<SFMDynamicSnip>EdMention - CTO - Microquant Retirement Guide</SFMDynamicSnip>
-<SFMID>2182</SFMID>
+<SHDynamicSnip>EdMention-CTO-TA Hidden Power</SHDynamicSnip>
+<SHID>2325</SHID>
+<iDDynamicSnip>EdMention - CTO - Microquant Retirement Guide</iDDynamicSnip>
+<iDID>2182</iDID>
+<OODynamicSnip>EdMention - CTO - Microquant Retirement Guide</OODynamicSnip>
+<OOID>2182</OOID>
+<oneTwoThreeDynamicSnip>EdMention - CTO - Microquant Retirement Guide</oneTwoThreeDynamicSnip>
+<ONEID>2182</ONEID>
+<SFMDynamicSnip>EdMention-CTO-TA Hidden Power</SFMDynamicSnip>
+<SFMID>2325</SFMID>
 <test>test snippet</test>
 </item>
 <!--  --> 
