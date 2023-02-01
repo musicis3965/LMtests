@@ -27,16 +27,16 @@
 <LMID>LM1544</LMID>
 <snipOpen>{{{ snippet</snipOpen>
 <snipClose>}}}</snipClose>
-<SHDynamicSnip>EdMention-CTO-TA Dark Pool Alerts</SHDynamicSnip>
-<SHID>2324</SHID>
-<iDDynamicSnip>EdMention - CTO - Microquant Retirement Guide</iDDynamicSnip>
-<iDID>2182</iDID>
+<SHDynamicSnip>EdMention-CTO-IP Mater Indicator</SHDynamicSnip>
+<SHID>2401</SHID>
+<iDDynamicSnip>EdMention-CTO-Millionaire BCP</iDDynamicSnip>
+<iDID>1821</iDID>
 <OODynamicSnip>EdMention-CTO-IP Mater Indicator</OODynamicSnip>
-<OOID>2315</OOID>
-<oneTwoThreeDynamicSnip>EdMention - CTO - Microquant Retirement Guide</oneTwoThreeDynamicSnip>
-<ONEID>2182</ONEID>
-<SFMDynamicSnip>EdMention-CTO-TA Dark Pool Alerts</SFMDynamicSnip>
-<SFMID>2324</SFMID>
+<OOID>2401</OOID>
+<oneTwoThreeDynamicSnip>EdMention-CTO-IP Mater Indicator</oneTwoThreeDynamicSnip>
+<ONEID>2401</ONEID>
+<SFMDynamicSnip>EdMention-CTO-Millionaire BCP</SFMDynamicSnip>
+<SFMID>1821</SFMID>
 <test>test snippet</test>
 </item>
 <!--  --> 
